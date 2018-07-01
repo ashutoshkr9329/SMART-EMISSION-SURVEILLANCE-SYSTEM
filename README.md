@@ -1,0 +1,2 @@
+# SMART-EMISSION-SURVEILLANCE-SYSTEM
+The purpose of this project is to build a robust system that can keep check on the amount of pollutants released by the vehicles into the atmosphere. Sudden environmental changes in pollution is one of the major contribution to environmental pollution. Increased number and usage of vehicles has reduced the quality of air and its surroundings and has even led to catastrophic problems in human beings.
